@@ -1,7 +1,7 @@
 # desafio-monitorament# Desafio de Monitoramento de Temperatura
 
 ## 1. Identificação
-* **Nome do aluno:** [Seu Nome Completo]
+* **Nome do aluno:** Stella santana de jesus
 * **Disciplina:** Algoritmos e Programação
 * **Professora:** Profa. Karla Sartin
 * **Título do projeto:** Sistema de Monitoramento de Temperatura em C
